@@ -1,0 +1,1 @@
+export PATH=$PATH:/ru-auth/local/home/adenisova/programs/hyphy-2.5.86/
